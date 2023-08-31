@@ -1,6 +1,7 @@
 # ClientServeur
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
+![Language](https://img.shields.io/badge/language-Bash-blue.svg)
 
 ## Description
 
